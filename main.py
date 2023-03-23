@@ -8,7 +8,7 @@ import speech_recognition as sr
 #If you using windows, you might need to install PyAudio to increase the voice recongnition process
 
 #API KEY FROM WEBSITE
-openai.api_key = "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"
+openai.api_key = "OpenAI API Key"
 
 #Initalize the text from speech engine:
 engine = pyttsx3.init()
